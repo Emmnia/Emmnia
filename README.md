@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Eugenia and I'm a passionate frontend developer striving to create website interfaces that are not only beautiful, but easy and comfortable to use</h2>
+<h2 align="left">Hi 👋! My name is Eugenia </h2>
+<p>I'm a passionate frontend developer striving to create website interfaces that are not only beautiful, but easy and comfortable to use.</p>
 
 ###
 
