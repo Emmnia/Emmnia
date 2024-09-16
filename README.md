@@ -44,3 +44,8 @@
 </div>
 
 ###
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Emmnia/Emmnia/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Emmnia/Emmnia/blob/output/github-contribution-grid-snake.svg" />
+</picture>
