@@ -1,7 +1,18 @@
 <h2 align="left">Hi 👋! My name is Eugenia </h2>
 <p>I'm a passionate frontend developer striving to create website interfaces that are not only beautiful, but easy and comfortable to use.</p>
 
+###
 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Emmnia&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJoMDBhaWNpb3JwZHJyY2QwM3lmNDVzOHNzenVnMzFhNWpmajJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="350"   />
+</div>
+
+###
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+###
 
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/></code>
