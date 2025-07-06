@@ -3,9 +3,9 @@
 
 ###
 
-<div >
-  <img  src="https://nirzak-streak-stats.vercel.app?user=Emmnia&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
-<img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJoMDBhaWNpb3JwZHJyY2QwM3lmNDVzOHNzenVnMzFhNWpmajJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="350"   />
+<div align="center">
+  <img  src="https://nirzak-streak-stats.vercel.app?user=Emmnia&theme=dracula&border_radius=5" alt="streak graph" width="450"  />
+<img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJoMDBhaWNpb3JwZHJyY2QwM3lmNDVzOHNzenVnMzFhNWpmajJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="320"   />
 </div>
 
 ###
